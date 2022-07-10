@@ -1,0 +1,10 @@
+h1 {
+  color: firebrick;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
